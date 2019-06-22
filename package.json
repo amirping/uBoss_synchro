@@ -1,0 +1,23 @@
+{
+  "name": "synchrosv",
+  "version": "0.0.1",
+  "description": "synchro server for uBoss",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "synchro",
+    "socket"
+  ],
+  "author": "saadallah med amir",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "circular-json": "^0.5.9",
+    "express": "^4.15.2",
+    "farmhash": "^2.1.0",
+    "node-fetch": "^2.6.0",
+    "socket.io": "^2.2.0"
+  }
+}
