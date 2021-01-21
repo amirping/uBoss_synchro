@@ -18,6 +18,6 @@
     "express": "^4.15.2",
     "farmhash": "^2.1.0",
     "node-fetch": "^2.6.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   }
 }
