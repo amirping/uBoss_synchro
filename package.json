@@ -17,7 +17,7 @@
     "circular-json": "^0.5.9",
     "express": "^4.15.2",
     "farmhash": "^2.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "socket.io": "^2.2.0"
   }
 }
